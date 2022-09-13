@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213d1d311bf579d4ea1a986968cb40c6, type: 3}
+  m_Name: ThemeAction
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: 1d6c55c9270b57e42b6583b1fcdd5cb8, type: 3}
+  - {fileID: 8300000, guid: ea4cff9bcacf2b74cb2e451547f158be, type: 3}
+  - {fileID: 8300000, guid: 6d3e072b48f7f764e9ab96e34735cbf3, type: 3}
+  Volume_min: 0.7
+  Volume_max: 0.7
+  Pitch_min: 1
+  Pitch_max: 1

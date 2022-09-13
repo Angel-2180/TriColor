@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 213d1d311bf579d4ea1a986968cb40c6, type: 3}
+  m_Name: DoorClose
+  m_EditorClassIdentifier: 
+  Clips:
+  - {fileID: 8300000, guid: fe4eec4289dc6bb478d9d21d2d0b5c56, type: 3}
+  - {fileID: 8300000, guid: 971441739a71b8c44802b5dca6c6a52a, type: 3}
+  - {fileID: 8300000, guid: 40571c111d6733d4197e2353594be49f, type: 3}
+  Volume_min: 0.7
+  Volume_max: 1.3
+  Pitch_min: 0.5
+  Pitch_max: 1.5
