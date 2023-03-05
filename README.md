@@ -1,4 +1,4 @@
-![Logo](Tricolor.png)
+![Logo](TriColor.png)
 
 
 # TriColor
